@@ -1,7 +1,10 @@
 <h1 align="center">Hello, I'm Princy</h1>
 <h3 align="center">A Cyber Security Enthisiast</h3>
 
+
 - 💬 Ask me about **Ethical Hacking, Penetration testing, Cyber Forensics**
+- I am currently learning CHFI
+- 
 
 - 📫 How to reach me **princymjose10@gmail.com**
 

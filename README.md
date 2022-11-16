@@ -3,7 +3,7 @@
 
 
 - 💬 Ask me about **Ethical Hacking, Penetration testing, Cyber Forensics**
-- I am currently learning CHFI
+- I am currently learning Bug Hunting
 
 
 - 📫 How to reach me **princymjose10@gmail.com**
